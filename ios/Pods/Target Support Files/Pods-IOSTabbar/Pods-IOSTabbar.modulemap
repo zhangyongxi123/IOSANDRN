@@ -1,0 +1,6 @@
+module Pods_IOSTabbar {
+  umbrella header "Pods-IOSTabbar-umbrella.h"
+
+  export *
+  module * { export * }
+}
